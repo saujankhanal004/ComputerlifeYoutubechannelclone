@@ -1,0 +1,184 @@
+.menu{
+    font-size: 19px;
+    margin: 15px;
+ 
+}
+.nav{
+    display: flex;
+    margin: 15px;
+   align-items: center;
+   justify-content: space-evenly;
+   
+  
+   
+}
+.logo{
+    background-image: url("navlogo.PNG");
+    height:40px;
+    width: 108px;   
+}
+.search{
+    width: 400px;
+    height: 30px;
+    margin-left: 17px;
+    display: flex;
+    margin-top: 5.5px;
+   
+}
+.search input{
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    width: 400px;
+    height: 30px;
+    border-color: #525753;
+   
+   
+ 
+   
+}
+.search i{
+    
+    border-color: #525753;
+    border: 2px solid  #525753;
+    border-radius: 0 40px 40px 0;
+    width: 70px;
+    height: 32px; 
+    display:flex;
+    background-color: #f8f8f8;
+    justify-content: center;
+    align-items: center; 
+}
+.microphone{
+   
+    background-color: #f8f8f8;
+    margin-top: 10px;
+    display: flex;
+    border:1px solid black;
+    border-radius: 50%;
+    border-color: transparent;
+    justify-content: center;
+    align-items: center; 
+    width:40px;
+    height:40px
+    
+   
+   
+
+}
+.video{
+    height: 40px;
+    width: 40px;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.bell{
+    height: 40px;
+    width: 40px;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.fa-regular.fa-bell,.fa-solid.fa-video {
+   
+    font-size: 24px; 
+    color: #333;
+}
+.logo2 img{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: transparent;
+}
+.space{
+    height: 40px;
+    width:200px;
+    background-color: transparent;
+}
+
+/*222222222 column*/
+.column{
+    width: 150px;
+    
+}
+.home{
+display: flex;
+
+}
+.twodivin1{
+    display: flex;
+
+}
+.logoandname{
+    display: flex;
+}
+.namee p{
+   
+  
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 2.8rem;
+   
+    font-weight: 700;
+    overflow: hidden;
+    display: block;
+    
+   
+    margin-top: 6px;
+    display: box;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-overflow: ellipsis;
+    white-space: normal;
+    margin:0%
+}
+.kk p{ 
+   
+   
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 14px;
+    font-color:#000000;
+    margin:0%
+     
+}
+
+.two{
+
+    display:flex;
+}
+
+.cc,.mv{
+    border: 1px solid transparent;
+    background-color: #8e8d8dc1;
+    padding:5px;
+    border-radius: 15px;
+
+}
+.secondnacbar{
+    display: flex;
+}
+.secondnacbar div{
+    margin: 15px;
+    font-size: large;
+    font-weight: bolder;
+    color: #606060;
+}
+.threebuttonnav{
+    display:flex;
+    
+}
+.threebuttonnav div{
+    margin: 15px;
+    font-size: large;
+    font-weight: bolder;
+    background-color: #d0c8c8;
+    color:black;
+    border-radius: 15px;
+    padding: 7px;
+
+}
+.youvdo{
+    display: flex;
+}
+.youvdo div p{
+    font-family: "Roboto","Arial",sans-serif;
+    font-size: 1.4rem;
+    
+}
